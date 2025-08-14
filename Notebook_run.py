@@ -5,10 +5,10 @@
 # COMMAND ----------
 
 # Sample code to print result
-def addition(a,b):
-  return a+b
+def addition(a,b,c):
+  return a+b+c
 
-sum_no = addition(10,12)
+sum_no = addition(10,12,9)
 print(sum_no)
 
 # COMMAND ----------
